@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="598" column="25" selection-start-line="598" selection-start-column="25" selection-end-line="598" selection-end-column="25" />
+            <state relative-caret-position="153">
+              <caret line="145" column="34" lean-forward="true" selection-start-line="145" selection-start-column="34" selection-end-line="145" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -52,7 +52,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>immerse</find>
       <find>immersive</find>
       <find>Startup 3.1</find>
       <find>Schedule Your Free Consultation</find>
@@ -71,7 +70,6 @@
       <find>f-</find>
       <find>Imagine</find>
       <find>763</find>
-      <find>Free Cons</find>
       <find>Free Con</find>
       <find>line</find>
       <find>choosing</find>
@@ -82,6 +80,8 @@
       <find>VRMemoir</find>
       <find>learn-more</find>
       <find>What's the process</find>
+      <find>&quot;https://calendly.com/dternyak/15min?back=1&amp;month=2019-09&quot;</find>
+      <find>Free Cons</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -239,8 +239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="598" column="25" selection-start-line="598" selection-start-column="25" selection-end-line="598" selection-end-column="25" />
+        <state relative-caret-position="153">
+          <caret line="145" column="34" lean-forward="true" selection-start-line="145" selection-start-column="34" selection-end-line="145" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
