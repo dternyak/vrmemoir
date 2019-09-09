@@ -2,339 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d483a5f-227f-4c45-903b-57cfa6e1d152" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/i/Avatar-4-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Avatar-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/CTA2-Background-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/CTA2-Background-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/CTA2-Background-p-1600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/CTA2-Background-p-2000.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/CTA2-Background-p-2600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/CTA2-Background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Feature1-Image1-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Feature1-Image1-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Feature1-Image1-p-1600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Feature1-Image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Feature1-Image2-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Feature1-Image2-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Feature1-Image2-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Feature1-Image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Feature1-Image3-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Feature1-Image3-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Feature1-Image3-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Feature1-Image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Logo12x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Logo12x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Logo12x_1-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Logo12x_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Logo22x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Logo22x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Logo22x_1-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Logo22x_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Logo32x_1-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Logo32x_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Logo32x_2Logo3@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-12x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-12x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-22x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-22x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-32x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-32x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-42x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-42x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-52x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-52x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-62x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-62x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-72x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-72x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-82x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Person-Pic-82x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Safari-Copy2x-1-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Safari-Copy2x-1-p-500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Safari-Copy2x-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Safari2x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Safari2x-p-500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Safari2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Screenshot-2018-05-01-20.54.33-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Screenshot-2018-05-01-20.54.33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image1-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image1-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image1-p-1600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image1-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image2-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image2-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image2-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image2-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image3-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image3-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image3-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/Services1-Image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/alexander-popov-522100-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/alexander-popov-522100-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/alexander-popov-522100-unsplash-p-1600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/alexander-popov-522100-unsplash-p-2000.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/alexander-popov-522100-unsplash-p-2600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/alexander-popov-522100-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/alexander-popov-522100-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/annie-spratt-216207-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/annie-spratt-216207-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/annie-spratt-216207-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/annie-spratt-216207-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/annie-spratt-216207-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/article-cover-1-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/article-cover-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/article-cover-2-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/article-cover-2-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/article-cover-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/article-cover-3-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/article-cover-3-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/article-cover-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/article-cover2-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/big-check2x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/big-check2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/bookmark6x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/bookmark6x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/brooke-lark-609908-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/brooke-lark-609908-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/brooke-lark-609908-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/brooke-lark-609908-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/brooke-lark-609908-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card-cover-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card-cover-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card-cover-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card-cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card1-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card2-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card22x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card22x-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card22x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card3-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card3-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card3-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card42x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card42x-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card42x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card52x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card52x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card62x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/card62x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/coffee-809_1coffee [#809].png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/facebook-icon-60px_1facebook-icon-60px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/header-2-landing-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/header-2-landing-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/header-2-landing-p-1600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/header-2-landing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero-home-mob-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero-home-mob-p-500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero-home-mob.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero-home2x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero-home2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-white-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-white-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-white-p-1600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-white-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-white.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-light-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-light-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-light-p-1600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-light.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-mob-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-mob-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-mob-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-mob-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-mob.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-p-1600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero2-woman.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/hero42x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-cards-mob2x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-cards-mob2x-p-500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-cards-mob2x-p-800.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-cards-mob2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-cards2x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-cards2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-icon1_1home-icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-icon2_1home-icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-icon3_1home-icon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-icon4_1home-icon4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing1-mob2x-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing1-mob2x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing1-mob2x-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing1-mob2x-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing1-mob2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing12x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing12x-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing12x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing2-mob2x-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing2-mob2x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing2-mob2x-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing2-mob2x-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing2-mob2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing22x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing22x-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing22x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing3-mob2x-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing3-mob2x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing3-mob2x-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing3-mob2x-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing3-mob2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing32x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing32x-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-landing32x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-sketch2x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-sketch2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-socicon1_1home-socicon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-socicon1_2home-socicon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-socicon2_1home-socicon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-socicon2_2home-socicon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-socicon3_1home-socicon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-socicon3_2home-socicon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-socicon4_1home-socicon4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-socicon4_2home-socicon4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-styleguide2x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-styleguide2x-p-500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-styleguide2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-youtube2x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/home-youtube2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/iMac-Pro2x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/iMac-Pro2x-p-500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/iMac-Pro2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/inma-santiago-746452-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/inma-santiago-746452-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/inma-santiago-746452-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/inma-santiago-746452-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/inma-santiago-746452-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ivan-bandura-659533-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ivan-bandura-659533-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ivan-bandura-659533-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ivan-bandura-659533-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ivan-bandura-659533-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ivars-utinsns-707750-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ivars-utinsns-707750-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ivars-utinsns-707750-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ivars-utinsns-707750-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ivars-utinsns-707750-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/jeremy-bishop-334996-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/jeremy-bishop-334996-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/jeremy-bishop-334996-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/jeremy-bishop-334996-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/jeremy-bishop-334996-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/landing3-feature12x-2-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/landing3-feature12x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/landing3-feature22x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/landing3-feature22x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/landing3-hero12x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/landing3-logo2x_1landing3-logo@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/menu-icon-dark2x_1menu-icon-dark@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/menu-icon2x_1menu-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/natalia-y-469694-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/natalia-y-469694-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/natalia-y-469694-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/natalia-y-469694-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/nathan-dumlao-483396-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/nathan-dumlao-483396-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/nathan-dumlao-483396-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/nathan-dumlao-483396-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/nathan-dumlao-483396-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/no-dark2x_1no-dark@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/no-light2x_1no-light@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/olena-sergienko-725307-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/olena-sergienko-725307-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/olena-sergienko-725307-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/olena-sergienko-725307-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/olena-sergienko-725307-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/photo-1530841377377-3ff06c0ca713-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/photo-1530841377377-3ff06c0ca713-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/photo-1530841377377-3ff06c0ca713-p-1600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/photo-1530841377377-3ff06c0ca713-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/photo-1530841377377-3ff06c0ca713-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/photo-1530841377377-3ff06c0ca713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products1-image-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products1-image-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products1-image-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products1-image-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products1-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products1-image_1-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products1-image_1-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products1-image_1-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products1-image_1-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products1-image_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products2-image2-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products2-image2-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products2-image2-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products2-image2-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products2-image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products2-image3-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products2-image3-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products2-image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products2-image4-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products2-image4-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products2-image4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image1-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image1-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image2-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image2-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image2-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image2-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image3-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image3-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image3-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image3-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image4-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image4-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image4-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image4-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/products3-image4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/rawpixel-589084-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/rawpixel-589084-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/rawpixel-589084-unsplash-p-1600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/rawpixel-589084-unsplash-p-2000.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/rawpixel-589084-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/rawpixel-589084-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/roos-oosterbroek-558868-unsplash2x-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/roos-oosterbroek-558868-unsplash2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ruth-troughton-384709-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ruth-troughton-384709-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ruth-troughton-384709-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ruth-troughton-384709-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ruth-troughton-384709-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/sacha-styles-769064-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/sacha-styles-769064-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/sacha-styles-769064-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/sacha-styles-769064-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/sacha-styles-769064-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/send_round-1569_1send_round [#1569].png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/shifaaz-shamoon-300079-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/shifaaz-shamoon-300079-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/shifaaz-shamoon-300079-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/shifaaz-shamoon-300079-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/shifaaz-shamoon-300079-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/shuffle6x-p-130x130q80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/shuffle6x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/signup-cover-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/signup-cover-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/signup-cover-p-1600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/signup-cover-p-2000.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/signup-cover-p-2600.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/signup-cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/style-transparent_1style-transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/yes2x_1yes@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/zohre-nemati-446136-unsplash-p-1080.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/zohre-nemati-446136-unsplash-p-130x130q80.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/zohre-nemati-446136-unsplash-p-500.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/zohre-nemati-446136-unsplash-p-800.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/zohre-nemati-446136-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -351,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="678" column="803" selection-start-line="678" selection-start-column="803" selection-end-line="678" selection-end-column="803" />
+            <state relative-caret-position="313">
+              <caret line="598" column="25" selection-start-line="598" selection-start-column="25" selection-end-line="598" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -372,8 +39,10 @@
                 <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#0;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#0;n#div#5;n#div#0;n#div#0;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -500,9 +169,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11693791" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11693791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -514,7 +182,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32513368" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32513368" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -571,8 +239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="678" column="803" selection-start-line="678" selection-start-column="803" selection-end-line="678" selection-end-column="803" />
+        <state relative-caret-position="313">
+          <caret line="598" column="25" selection-start-line="598" selection-start-column="25" selection-end-line="598" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -592,8 +260,10 @@
             <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#0;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#div#5;n#div#0;n#div#0;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
